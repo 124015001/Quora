@@ -1,2 +1,2 @@
 # Quora
-Links to my best answers written on Quora platform.
+Links to the answers from Quora platform.
